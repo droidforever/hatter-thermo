@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/droidforever/alexa-rthermostat.git"
+    "url": "git+https://github.com/droidforever/hatter-thermo.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/droidforever/alexa-rthermostat/issues"
+    "url": "https://github.com/droidforever/hatter-thermo/issues"
   },
-  "homepage": "https://github.com/droidforever/alexa-thermostat#readme",
+  "homepage": "https://github.com/droidforever/hatter-thermo#readme",
   "dependencies": {
     "alexa-app": "^2.1.4",
     "async": "^1.5.0",
